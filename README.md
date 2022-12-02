@@ -20,4 +20,4 @@ Tag : `Python` `Scrapy` `Playwright` `EC2` `S3` `EMR` `GLUE` `Redshift` `Athena`
 6. By linking Redshift with BI Tool (Tableau), the BI dashboard is constructed by visualizing statistics for each indicator.
 7. Use the BI dashboard.
 
-+ Redshfit can be used alternatively with Athena.
+* Redshfit can be used alternatively with Athena.
