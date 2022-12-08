@@ -9,7 +9,7 @@ Project Description: ''
 Tag : `Python` `Scrapy` `Playwright` `EC2` `S3` `EMR` `GLUE` `Redshift` `Athena` `Tableau`
 
 ## Architecture
-<img width="1000" alt="Screenshot 2022-11-29 at 11 16 09 AM" src="https://user-images.githubusercontent.com/24248797/205289493-e78b032b-55cc-4c97-a6c1-9f36bb54a6c4.png">
+<img width="1291" alt="Screenshot 2022-12-08 at 9 36 56 AM" src="https://user-images.githubusercontent.com/24248797/206327601-6fe3dbdf-f3a6-46f1-ab84-c061f04d4649.png">
 
 
 1. ECS (E-Comm. Scraper) collects product data of a specific brand from several domestic/foreign marketplaces.
@@ -19,5 +19,6 @@ Tag : `Python` `Scrapy` `Playwright` `EC2` `S3` `EMR` `GLUE` `Redshift` `Athena`
 5. Perform statistics and analysis on Redshift.
 6. By linking Redshift with BI Tool (Tableau), the BI dashboard is constructed by visualizing statistics for each indicator.
 7. Use the BI dashboard.
+
 
 * Redshfit can be used alternatively with Athena.
