@@ -2,9 +2,9 @@
 
 ## Project Details
 
-Project Period: 2022-04 ~ Present (Continuing Development)
+**Project Period**: 2022-04 ~ Present (Continuing Development)
 
-Project Description: Cloud(AWS)-based data pipeline to analyze domestic and overseas e-commerce trends
+**Project Description**: Cloud(AWS)-based data pipeline to analyze domestic and overseas e-commerce trends
 
 Tag : `Python` `Scrapy` `Playwright` `EC2` `S3` `EMR` `GLUE` `Redshift` `Athena` `Tableau`
 
